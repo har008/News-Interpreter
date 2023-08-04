@@ -12,9 +12,6 @@ Serious studies in the past 5 years, have demonstrated big correlations between 
 
 The problem is real and hard to solve because the bots are getting better are tricking us. Is not simple to detect when the information is true or not all the time, so we need better systems that help us understand the patterns of fake news to improve our social media, communication and to prevent confusion in the world.
 
-## Purpose
-
-In this short code , we'll explain several ways to detect fake news using collected data from different articles. But the same techniques can be applied to different scenarios. For the coders and experts, we'll explain the Python code to load, clean, and analyze data. Then we will do some machine learning models to perform a classification task (fake or not).
 
 ## The Data
 
